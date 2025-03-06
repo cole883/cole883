@@ -22,7 +22,7 @@
       <br><b>TypeScript</b>
     </td>
     <td align="center" width="96">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="Go" width="48" height="48" />
+      <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/csharp/csharp-original.svg" alt="Go" width="48" height="48" />
       <br><b>C#</b>
     </td>
     <td align="center" width="96"> 
