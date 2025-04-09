@@ -1,8 +1,8 @@
-<h1 align="center">Senior Full Stack Developer</h1>
-<h3 align="center">Experienced full-stack developer with a proven track record of delivering high-quality, scalable applications.</h3>
+<h1 align="center">Senior Full Stack Software Engineer</h1>
+<h3 align="center">Experienced full-stack engineer with a proven track record of delivering high-quality, scalable applications.</h3>
 
 - 💬 Ask me about **SPA frameworks (React, Vue.js, Angular, Next.js, Nuxt.js, etc) and Express.js / Django**
-- 🔭 Full-stack developer with 7+ years of experience designing and building scalable, high-performance web applications
+- 🔭 Full-stack developer with 8+ years of experience designing and building scalable, high-performance web applications
 - 👍 Experienced in DevOps, and Cloud infrastructure, especially with AWS and Azure
 
 ## 💻 My favorite tools and technologies
